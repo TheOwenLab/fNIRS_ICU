@@ -3,7 +3,7 @@ This repository contains MATLAB code to reproduce the motor-imagery (MI) analyse
 Repo: [https://github.com/TheOwenLab/fNIRS_ICU](https://github.com/TheOwenLab/fNIRS_ICU)
 
 ## System Requirements
-- MATLAB: R2020a–R2025a (tested on R2023b and R2024b)  
+- MATLAB: R2020a–R2025a (tested on R2023b,R2024a, R2024b and R2025a)  
 - OS: Windows 10/11, macOS 12+, Ubuntu 20.04/22.04  
 - fNIRS toolbox: version included in this repo under `/fNIRS_toolbox` (commit pinned)  
 - SNIRF I/O: included via the toolbox (Shared Near Infrared File format)  
